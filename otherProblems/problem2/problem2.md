@@ -1,0 +1,1 @@
+find lowest marks student got
